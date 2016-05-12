@@ -1,0 +1,5 @@
+﻿
+namespace BigFatHUD
+{
+    //nothing yet
+}

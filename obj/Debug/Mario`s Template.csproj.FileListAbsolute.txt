@@ -1,0 +1,15 @@
+E:\Game\My\Mario`s Template\Mario`s Template\bin\Debug\Big Fat HUD.exe.config
+E:\Game\My\Mario`s Template\Mario`s Template\bin\Debug\Big Fat HUD.exe
+E:\Game\My\Mario`s Template\Mario`s Template\bin\Debug\Big Fat HUD.pdb
+E:\Game\My\Mario`s Template\Mario`s Template\bin\Debug\EloBuddy.dll
+E:\Game\My\Mario`s Template\Mario`s Template\bin\Debug\EloBuddy.Sandbox.dll
+E:\Game\My\Mario`s Template\Mario`s Template\bin\Debug\EloBuddy.SDK.dll
+E:\Game\My\Mario`s Template\Mario`s Template\bin\Debug\Mario`s Lib.dll
+E:\Game\My\Mario`s Template\Mario`s Template\bin\Debug\Newtonsoft.Json.dll
+E:\Game\My\Mario`s Template\Mario`s Template\bin\Debug\SharpDX.Direct3D9.dll
+E:\Game\My\Mario`s Template\Mario`s Template\bin\Debug\SharpDX.dll
+E:\Game\My\Mario`s Template\Mario`s Template\obj\Debug\Mario`s Template.csprojResolveAssemblyReference.cache
+E:\Game\My\Mario`s Template\Mario`s Template\obj\Debug\BigFatHUD.Properties.Resources.resources
+E:\Game\My\Mario`s Template\Mario`s Template\obj\Debug\Mario`s Template.csproj.GenerateResource.Cache
+E:\Game\My\Mario`s Template\Mario`s Template\obj\Debug\Big Fat HUD.exe
+E:\Game\My\Mario`s Template\Mario`s Template\obj\Debug\Big Fat HUD.pdb
