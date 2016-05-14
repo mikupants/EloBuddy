@@ -42,9 +42,6 @@
     <Reference Include="EloBuddy.SDK">
       <HintPath>..\..\..\..\Program Files\EloBuddy\System\EloBuddy.SDK.dll</HintPath>
     </Reference>
-    <Reference Include="Mario`s Lib">
-      <HintPath>..\..\..\..\Program Files\EloBuddy\System\Mario`s Lib.dll</HintPath>
-    </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>..\..\..\..\Program Files\EloBuddy\System\Newtonsoft.Json.dll</HintPath>
     </Reference>
@@ -59,7 +56,9 @@
     <Reference Include="System.Drawing" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ColorSlider.cs" />
     <Compile Include="Extensions.cs" />
+    <Compile Include="HUD2.cs" />
     <Compile Include="HUD.cs" />
     <Compile Include="Menus.cs" />
     <Compile Include="Program.cs" />
@@ -70,6 +69,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <Compile Include="Render.cs" />
+    <Compile Include="WindowsMessages.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -544,6 +544,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\summonerdot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_drag.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

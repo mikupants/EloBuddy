@@ -253,6 +253,16 @@ namespace BigFatHUD.Properties {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        internal static System.Drawing.Bitmap cursor_drag {
+            get {
+                object obj = ResourceManager.GetObject("cursor_drag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         internal static System.Drawing.Bitmap Darius_Square_0 {
             get {
                 object obj = ResourceManager.GetObject("Darius_Square_0", resourceCulture);
